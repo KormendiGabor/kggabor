@@ -1,0 +1,124 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="gaborkormendi96.github.io" resolutions="1x" timestamp="1508588058362">
+  <folder name="assets">
+    <file name="icons8-windows-8-mobile-phone.ico" crc="3845650089" seo="true" mt="1507983003000"/>
+    <file name="icons8-windows-8-mobile-phone2.ico" crc="3845650089" seo="true" mt="1507983042000"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="dikt_tor.css" crc="205080099" ref="diktátor"/>
+    <file name="index.css" crc="3956797516" ref="index"/>
+    <file name="master_b-master.css" crc="15001923" ref="mutáns:madárház:gyilkos:diktátor:sablon"/>
+    <file name="mut_ns.css" crc="466258185" ref="mutáns"/>
+    <file name="mad_rh_z.css" crc="173534761" ref="madárház"/>
+    <file name="gyilkos.css" crc="3780938611" ref="gyilkos"/>
+    <file name="sablon.css" crc="377212283" ref="sablon"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="diktátor:index:mutáns:madárház:gyilkos:sablon"/>
+    <file name="museutils.js" crc="163421577" ref="diktátor:index:mutáns:madárház:gyilkos:sablon"/>
+    <file name="whatinput.js" crc="86476730" ref="diktátor:index:mutáns:madárház:gyilkos:sablon"/>
+    <file name="museconfig.js" crc="168988563" ref="diktátor:index:mutáns:madárház:gyilkos:sablon"/>
+    <file name="jquery.watch.js" crc="104486786" ref="diktátor:index:mutáns:madárház:gyilkos:sablon"/>
+    <file name="require.js" crc="244322403" ref="diktátor:index:mutáns:madárház:gyilkos:sablon"/>
+    <file name="webpro.js" crc="3848665353" ref="index:diktátor:mutáns:madárház:gyilkos:sablon"/>
+    <file name="form_check.php" crc="158155501" ref="index"/>
+    <file name="form_throttle.php" crc="3992970984" ref="index"/>
+    <file name="form_process.php" crc="4078697226" ref="index"/>
+    <file name="form-u3656.php" crc="227947075" ref="index"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="diktátor:mutáns:madárház:gyilkos:sablon"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="diktátor:mutáns:madárház:gyilkos:sablon"/>
+    <file name="touchswipe.js" crc="404375771" ref="diktátor:mutáns:madárház:gyilkos:sablon"/>
+  </folder>
+  <folder name="images">
+    <file name="_dsc5378.jpg" crc="440747833" ref="index" seo="true"/>
+    <file name="_dsc4911-crop-u123.jpg" crc="3824354548" ref="index"/>
+    <file name="u136-4.png" crc="383905909" ref="index"/>
+    <file name="e5f7416f03ac68729db84cbb3374d118--pretty-cats-beautiful-cats.jpg" crc="215792467" seo="true" ref="index"/>
+    <file name="u156-28.png" crc="4079483867" ref="index"/>
+    <file name="u159-4.png" crc="4125440410" ref="index"/>
+    <file name="u162-4.png" crc="4084652154" ref="index"/>
+    <file name="körmendi gábor madarhaz 02jpg.jpg" crc="78212014" seo="true" ref="index"/>
+    <file name="körmendi gábor gyilkos-aldozat-szemtanu 01jpg-crop-u199.jpg" crc="4259167651" ref="index"/>
+    <file name="_dsc2775-crop-u165.jpg" crc="3899842746" ref="index"/>
+    <file name="u238-4.png" crc="3910703611" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:diktátor:mutáns:madárház:gyilkos:sablon"/>
+    <file name="u3668.png" crc="371903813" ref="index"/>
+    <file name="u3668-ferr.png" crc="3831381863" ref="index"/>
+    <file name="u3659.png" crc="3876975753" ref="index"/>
+    <file name="u3659-ferr.png" crc="443384548" ref="index"/>
+    <file name="u3664.png" crc="463028418" ref="index"/>
+    <file name="u3664-ferr.png" crc="401601824" ref="index"/>
+    <file name="2000px-phone_font_awesomesvg.png" crc="4214378767" seo="true" ref="index"/>
+    <file name="icon-email-128.png" crc="298997281" seo="true" ref="index"/>
+    <file name="facebook-logo-black-and-white-png-2.png" crc="375743498" seo="true" ref="index"/>
+    <file name="instagram-icon-white-on-black-circle-crop-u3637.png" crc="456027152" ref="index"/>
+    <file name="u241-12.png" crc="233266512" ref="index"/>
+    <file name="u3554-4.png" crc="90869427" ref="index"/>
+    <file name="u3557-4.png" crc="391021360" ref="index"/>
+    <file name="u2965-4.png" crc="4279161524" ref="diktátor:mutáns:madárház:gyilkos:sablon"/>
+    <file name="u2968-4.png" crc="4141932110" ref="diktátor:mutáns:madárház:gyilkos:sablon"/>
+    <file name="u2971-4.png" crc="4243317435" ref="diktátor:mutáns:madárház:gyilkos:sablon"/>
+    <file name="u2974-4.png" crc="4154415134" ref="diktátor:mutáns:madárház:gyilkos:sablon"/>
+    <file name="u2977-4.png" crc="3888022868" ref="diktátor:mutáns:madárház:gyilkos:sablon"/>
+    <file name="u437-4.png" crc="431644816" ref="diktátor"/>
+    <file name="u440-4.png" crc="393998025" ref="diktátor"/>
+    <file name="_dsc4911.jpg" crc="398227971" seo="true" ref="diktátor"/>
+    <file name="_dsc5249.jpg" crc="4078192876" seo="true" ref="diktátor"/>
+    <file name="_dsc53782.jpg" crc="4239684038" seo="true" ref="diktátor"/>
+    <file name="_dsc5422.jpg" crc="4078366067" seo="true" ref="diktátor"/>
+    <file name="_dsc5531.jpg" crc="3864311472" seo="true" ref="diktátor"/>
+    <file name="_dsc5640.jpg" crc="338057883" seo="true" ref="diktátor"/>
+    <file name="_dsc5697.jpg" crc="237126652" seo="true" ref="diktátor"/>
+    <file name="_dsc5749.jpg" crc="226295174" seo="true" ref="diktátor"/>
+    <file name="_dsc5763.jpg" crc="293085396" seo="true" ref="diktátor"/>
+    <file name="_dsc491122.jpg" crc="183866196" seo="true" ref="diktátor"/>
+    <file name="3.jpg" crc="4191304284" seo="true" ref="diktátor"/>
+    <file name="loading.gif" crc="3815509949" ref="diktátor:mutáns:madárház:gyilkos:sablon"/>
+    <file name="u1472-4.png" crc="3836091992" ref="mutáns"/>
+    <file name="u1473-4.png" crc="3782211676" ref="mutáns"/>
+    <file name="_dsc2775.jpg" crc="446254348" seo="true" ref="mutáns"/>
+    <file name="_dsc2401.jpg" crc="4221991559" seo="true" ref="mutáns"/>
+    <file name="_dsc2414.jpg" crc="472800397" seo="true" ref="mutáns"/>
+    <file name="_dsc2431.jpg" crc="3778416117" seo="true" ref="mutáns"/>
+    <file name="_dsc2459.jpg" crc="493999365" seo="true" ref="mutáns"/>
+    <file name="_dsc2604.jpg" crc="284433634" seo="true" ref="mutáns"/>
+    <file name="_dsc2621.jpg" crc="4250623140" seo="true" ref="mutáns"/>
+    <file name="_dsc2661.jpg" crc="4232250004" seo="true" ref="mutáns"/>
+    <file name="_dsc2817.jpg" crc="83734200" seo="true" ref="mutáns"/>
+    <file name="_dsc2337.jpg" crc="4230356397" seo="true" ref="mutáns"/>
+    <file name="u2150-4.png" crc="488025287" ref="madárház"/>
+    <file name="u2151-3.png" crc="69744191" ref="madárház"/>
+    <file name="körmendi gábor madarhaz 02jpg2.jpg" crc="4097436228" seo="true" ref="madárház"/>
+    <file name="körmendi gábor madarhaz 05jpg.jpg" crc="3772153357" seo="true" ref="madárház"/>
+    <file name="körmendi gábor madarhaz 06jpg.jpg" crc="4211160965" seo="true" ref="madárház"/>
+    <file name="körmendi gábor madarhaz 07jpg.jpg" crc="3817944556" seo="true" ref="madárház"/>
+    <file name="körmendi gábor madarhaz 08jpg.jpg" crc="405572217" seo="true" ref="madárház"/>
+    <file name="körmendi gábor madarhaz 09jpg.jpg" crc="482081507" seo="true" ref="madárház"/>
+    <file name="körmendi gábor madarhaz 10jpg.jpg" crc="4119455557" seo="true" ref="madárház"/>
+    <file name="körmendi gábor madarhaz 01jpg.jpg" crc="523591271" seo="true" ref="madárház"/>
+    <file name="körmendi gábor madarhaz 03jpg.jpg" crc="477639284" seo="true" ref="madárház"/>
+    <file name="körmendi gábor madarhaz 04jpg.jpg" crc="3991893659" seo="true" ref="madárház"/>
+    <file name="u2234-4.png" crc="4286054352" ref="gyilkos"/>
+    <file name="u2233-3.png" crc="69744191" ref="gyilkos"/>
+    <file name="körmendi gábor gyilkos-aldozat-szemtanu 01jpg.jpg" crc="349660348" seo="true" ref="gyilkos"/>
+    <file name="körmendi gábor gyilkos-aldozat-szemtanu 02jpg.jpg" crc="222401801" seo="true" ref="gyilkos"/>
+    <file name="körmendi gábor gyilkos-aldozat-szemtanu 03jpg.jpg" crc="92737483" seo="true" ref="gyilkos"/>
+    <file name="körmendi gábor gyilkos-aldozat-szemtanu 04jpg.jpg" crc="266580325" seo="true" ref="gyilkos"/>
+    <file name="körmendi gábor gyilkos-aldozat-szemtanu 05jpg.jpg" crc="4160562683" seo="true" ref="gyilkos"/>
+    <file name="körmendi gábor gyilkos-aldozat-szemtanu 06jpg.jpg" crc="3865885454" seo="true" ref="gyilkos"/>
+    <file name="körmendi gábor gyilkos-aldozat-szemtanu 07jpg.jpg" crc="4246754986" seo="true" ref="gyilkos"/>
+    <file name="körmendi gábor gyilkos-aldozat-szemtanu 08jpg.jpg" crc="327380148" seo="true" ref="gyilkos"/>
+    <file name="körmendi gábor gyilkos-aldozat-szemtanu 09jpg.jpg" crc="3846574761" seo="true" ref="gyilkos"/>
+    <file name="u3022-4.png" crc="431644816" ref="sablon"/>
+    <file name="u3049-4.png" crc="393998025" ref="sablon"/>
+    <file name="cactus.jpg" crc="38299773" seo="true" ref="sablon"/>
+    <file name="road.jpg" crc="32802190" seo="true" ref="sablon"/>
+    <file name="trees.jpg" crc="248565037" seo="true" ref="sablon"/>
+  </folder>
+  <file name="diktátor.html" crc="128637680" seo="true" mt="1507989046389" redirect="true"/>
+  <file name="index.html" crc="323010145" seo="true" mt="1508587970821" redirect="true"/>
+  <file name="mutáns.html" crc="294121663" seo="true" mt="1507989037538" redirect="true"/>
+  <file name="madárház.html" crc="366990129" seo="true" mt="1507990121208" redirect="true"/>
+  <file name="gyilkos.html" crc="4281207784" seo="true" mt="1507990100967" redirect="true"/>
+  <file name="sablon.html" crc="434388906" seo="true" mt="1507989206955" redirect="true"/>
+</manifest>
